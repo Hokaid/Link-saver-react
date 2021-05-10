@@ -1,4 +1,6 @@
-## A Link manager web app made with ReactJS
+## Description
+
+A Link manager web app made with ReactJS
 
 # Getting Started with Create React App
 
